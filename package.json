@@ -23,6 +23,9 @@
     "typescript": "^5.9.3"
   },
   "optionalDependencies": {
-    "@rollup/rollup-linux-x64-gnu": "*"
+    "@rollup/rollup-linux-x64-gnu": "4.55.1"
+  },
+  "overrides": {
+    "@rollup/rollup-win32-x64-msvc": "-"
   }
 }
