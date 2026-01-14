@@ -22,7 +22,7 @@ jobs:
           node-version: 20
 
       - name: Install dependencies
-        run: npm install --no-package-lock # Esto fuerza la instalación correcta
+        run: npm install # Esto fuerza la instalación correcta
 
       - name: Build Astro
         run: npm run build
