@@ -1,7 +1,7 @@
 ---
 title: "about the site"
 ---
-From my point of view—which is but a single point of view and, therefore, not the full reality—we live in a world where raw intelligence is no longer the ultimate requirement. AI systems are becoming more capable than humans in many aspects. Thus, AI should be adopted, or at least understood. Smartness is becoming a commodity rather than the unique asset it once was. Yet, variables such as creativity and resilience remain, and will always be, essential.
+From my point of view. Which is but a single point of view and, therefore, not the full reality. We live in a world where intelligence is no longer the ultimate requirement. AI systems are becoming more capable than humans in many aspects. Hence, AI should be adopted, or at least understood. Smartness is becoming a commodity rather than the unique asset it once was. Yet, variables such as creativity and resilience remain, and will always be, essential.
 
 In this context, I created this website as a statement of exploration. As a human being with limited time on Earth, I believe time should be used purposefully. My philosophy is to make this world a better place; hence, I am constantly learning to apply technology for the good of society. This website stores projects I have built with the help of AI, applying it to real-world scenarios. My goal is to create as much as possible in the hope of finding something truly useful for the world.
 
