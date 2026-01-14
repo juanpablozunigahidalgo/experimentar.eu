@@ -1,0 +1,21 @@
+---
+import { getEntry, render } from 'astro:content';
+import Layout from '../layouts/Layout.astro';
+
+const project = await getEntry('portafolio', 'gettashower');
+if (!project) return Astro.redirect('/404');
+const { Content } = await render(project);
+---
+<Layout title="Current Project">
+  <section>
+    <h1 class="mb-12">{project.data.title}</h1>
+    
+    <div class="ml-16 mb-12 max-w-2xl">
+      <Content />
+    </div>
+
+    <a href={project.data.github} target="_blank">
+      More about this project
+    </a>
+  </section>
+</Layout>

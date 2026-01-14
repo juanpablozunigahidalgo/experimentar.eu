@@ -1,0 +1,19 @@
+---
+import { getEntry, render } from 'astro:content';
+import Layout from '../layouts/Layout.astro';
+
+const entry = await getEntry('about', 'description'); 
+
+if (!entry) {
+  return Astro.redirect('/404');
+}
+
+const { Content } = await render(entry);
+---
+<Layout title="about the site">
+  <section class="max-w-3xl">
+    <div class="text-justify leading-relaxed [&>p]:mb-8">
+      <Content />
+    </div>
+  </section>
+</Layout>

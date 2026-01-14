@@ -1,0 +1,14 @@
+---
+title: "about the site"
+---
+From my point of view—which is but a single point of view and, therefore, not the full reality—we live in a world where raw intelligence is no longer the ultimate requirement. AI systems are becoming more capable than humans in many aspects. Thus, AI should be adopted, or at least understood. Smartness is becoming a commodity rather than the unique asset it once was. Yet, variables such as creativity and resilience remain, and will always be, essential.
+
+In this context, I created this website as a statement of exploration. As a human being with limited time on Earth, I believe time should be used purposefully. My philosophy is to make this world a better place; hence, I am constantly learning to apply technology for the good of society. This website stores projects I have built with the help of AI, applying it to real-world scenarios. My goal is to create as much as possible in the hope of finding something truly useful for the world.
+
+Regarding the name: experimentar. In November 2025, I traveled to visit my family in Chile. On my way back, I had the opportunity to visit Portugal. I had always dreamed of visiting the country that produced the explorers of Brazil. During that trip, as many tourists do, I visited a shoe store. I wasn't aware until I entered that Portuguese people make such beautiful leather shoes.
+
+A friendly woman asked me: "você quer experimentar os sapatos?" At that moment, my mind exploded at the beauty of the Portuguese language and how it has shaped reality throughout history. In English, the translation is: "do you want to experiment the shoes?" What a beautiful expression! In Spanish, people ask: "¿quiere probarse los zapatos?", which means "do you want to test the shoes?" But Portuguese was different. It was about experimenting. Life is about experimenting.
+
+The word experimentar can be broken down: "ex" (out of, away from), which acts as your exit from the comfort of the known; "peri" (to risk, to attempt), representing the trial—the courageous act of passing through an unknown challenge; and "mentar", which turns that courage into a continuous action. Together, the word describes the process of acting to go out through a risk. It teaches us that wisdom isn’t found by staying safe within boundaries, but by daring to travel through the experience itself. Another angle comes from the Spanish word perímetro (perimeter); to experimentar is to discover the limits—the perimeter—of a form.
+
+In any case, I love the expression, and that is why I built this website. Life is about experimentar. Perhaps I will discover some limits in this universe that will somehow fit my life, just as a pair of shoes might fit one's feet.

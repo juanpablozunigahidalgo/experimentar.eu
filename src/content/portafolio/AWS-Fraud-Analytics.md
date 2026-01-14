@@ -1,0 +1,9 @@
+---
+title: "aws-fraud-analytics"
+github: "https://github.com/juanpablozunigahidalgo/AmazonWebService-FRAUD-TEST"
+---
+This project was developed as a comprehensive technical case for a Fraud Analyst II position at Amazon Web Services (AWS) in Berlin. It demonstrates an end-to-end analytical workflow designed to detect and mitigate cloud account takeovers and resource abuse. The core objective is to identify emerging patterns of compromise—such as credential stuffing and illicit crypto-mining—while minimizing friction for legitimate customers.
+
+The solution utilizes a synthetic but realistic dataset engineered in SQLite, capturing login events, IP reputation data, and EC2 instance activity. By leveraging SQL for feature engineering and Python for advanced analytics, the system computes high-fidelity account signals including failed login rates, geographic anomalies, and TOR network usage. A specialized detection logic was implemented to flag a high-risk "risky fail to EC2 burst" pattern, where multiple instances are provisioned across different regions immediately following suspicious login attempts.
+
+In addition to technical detection, the project incorporates a statistical layer to correlate flagged accounts with payment failures and chargebacks. The final deliverables include a reproducible Streamlit dashboard for interactive triage, clear operational mitigation rules, and an executive summary with playbook steps for incident containment. This repository highlights a unique ability to bridge the gap between complex data signals and actionable business security strategies in a global cloud environment.
