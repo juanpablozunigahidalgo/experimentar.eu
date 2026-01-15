@@ -1,5 +1,5 @@
 ---
-title: "gettashower"
+title: "Gettashower"
 github: "https://github.com/juanpablozunigahidalgo/gettashower"
 ---
 Gettashower is a logistical solution designed to solve the "hygiene gap" in hyper-mobile urban environments. In warm, high-density cities like Madrid, Barcelona, or Buenos Aires, travelers and active professionals often find themselves "stuck" between activities—after a gym session, a long flight, or a day at the beach—without a private place to freshen up. This platform transforms the city into a distributed wellness network by partnering with existing infrastructure—such as boutique gyms, coworking spaces, and hostels—to monetize their underutilized shower facilities. Instead of paying for an expensive hotel day-rate or carrying a heavy bag all day, users can use a seamless mobile interface to find, book, and access a high-quality "Refresh Point" and locker in minutes.

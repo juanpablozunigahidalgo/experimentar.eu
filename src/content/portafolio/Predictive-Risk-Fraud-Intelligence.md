@@ -1,5 +1,5 @@
 ---
-title: "aws-fraud-analytics"
+title: "Predictive Risk & Fraud Intelligence"
 github: "https://github.com/juanpablozunigahidalgo/AmazonWebService-FRAUD-TEST"
 ---
 This project was developed as a comprehensive technical case for a Fraud Analyst II position at Amazon Web Services (AWS) in Berlin. It demonstrates an end-to-end analytical workflow designed to detect and mitigate cloud account takeovers and resource abuse. The core objective is to identify emerging patterns of compromise—such as credential stuffing and illicit crypto-mining—while minimizing friction for legitimate customers.
